@@ -1,3 +1,11 @@
+/**************************************************
+ * CSCI 365 - Computational Finance
+ * Professor: Dr. Sateesh Mane
+ *
+ * Header file is intellectual property of
+ * Dr. Sateesh Mane, 2018.
+**************************************************/
+
 #ifndef BOND_HPP
 #define BOND_HPP
 
